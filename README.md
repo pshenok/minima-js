@@ -1,1 +1,1 @@
-# minima-js
+Open source RAG on-premis solution 
